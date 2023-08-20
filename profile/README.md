@@ -1,3 +1,3 @@
-# unethical: minecraft 
-unethical creations for minecraft players </br>
+# unethical
+unethical creations. </br>
 [discord](https://discord.gg/vhJ8Dsp9qa)
