@@ -1,3 +1,2 @@
 # unethical
-unethical creations. </br>
-[discord](https://unethical.team/discord)
+![discord](https://discordapp.com/api/guilds/1140162214150545418/widget.png?style=banner2)
